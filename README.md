@@ -1,3 +1,5 @@
+<img src="./images/snapchat-spectacles-v2-close-up.jpg" alt="THE OpenSea Snap Experience">
+
 # Snapchat-OpenSea-Lens
 Demo of using Snapchat with OpenSea to view 3D content ontop of the opensea mobile app..<br />
 In development... do not try to use yet still work in progress.
