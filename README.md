@@ -1,6 +1,8 @@
 # Snapchat-OpenSea-Lens
-Demo of using Snapchat with OpenSea to view 3D content ontop of the opensea mobile app..
+Demo of using Snapchat with OpenSea to view 3D content ontop of the opensea mobile app..<br />
 In development... do not try to use yet still work in progress.
+
+All source is held within the demo folder.
 
 # How to use (Mobile)
 1. Install snapchat
