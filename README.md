@@ -10,3 +10,5 @@ All source is held within the demo folder.
 3. if you have Snap Spectacles put them on and launch the opensea app from your mobile device.<br />
 if you dont have spectacles you will need another device.. -  1 with snapchat and 1 device with opensea (Open Snapchat load lens and point it at opensea)
 
+# Future plans 
+Create a unity app that will dynamically load mesh files and generate on the fly AR experiences ontop of OpenSea.
