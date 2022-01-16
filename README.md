@@ -20,6 +20,10 @@ Hoping in the near future that Snap will allow immersive experiences via users o
 # Future plans 
 Create a unity app that will dynamically load mesh files and generate on the fly AR experiences ontop of OpenSea.
 
-# Example Demo
+# Example Demos
 https://user-images.githubusercontent.com/364208/149654187-a28ceefc-d0ef-418a-b7b9-21d62a4351f7.mp4
+
+
+
+https://user-images.githubusercontent.com/364208/149656365-561e7529-dd0f-439d-afd0-f2ba516871a3.mp4
 
